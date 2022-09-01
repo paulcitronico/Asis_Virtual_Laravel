@@ -1,0 +1,9 @@
+1.- Generar metodo de saludo
+2.- Identificar palabra clave
+3.- Generar funcion de pago
+4.- Generar funcion de horario
+5.- 
+6.-
+7.-
+8.-
+9.-
